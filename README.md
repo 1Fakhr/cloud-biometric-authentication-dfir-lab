@@ -119,4 +119,4 @@ This project demonstrates practical experience in:
 # Author
 
 **Fakhr Aldin Alkhatib**  
-Cyber Forensics Student
+Digital Forensics Student
